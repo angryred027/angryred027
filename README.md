@@ -1,6 +1,6 @@
 <!-- Banner / Intro -->
 <h1 align="center">Hello there, I'm Minami Haruto </h1>
-<h3 align="center">Senior Full-Stack Web Developer • Based in Osaka, Japan</h3>
+<h3 align="center">Full-Stack Web Developer • Based in Osaka, Japan</h3>
 
 <p align="center">
   <a href="mailto:minamiharuto727@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail"></a>
@@ -10,12 +10,8 @@
 ---
 
 ## About Me
-I’m a **senior full-stack developer** with extensive experience in **web application development**, **cloud solutions**, and **scalable system design**.  
+I’m a **full-stack developer** with extensive experience in **web application development**, **cloud solutions**, and **scalable system design**.  
 Passionate about crafting high-performance, user-friendly applications that solve real-world problems.
-
-Got it — you want to emphasize certain key phrases in your **💼 Professional Highlights** with bold styling (`**...**`) so they stand out visually and are easy to scan.
-
-Here’s the improved version:
 
 ---
 
