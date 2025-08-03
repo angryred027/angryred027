@@ -13,11 +13,25 @@
 I’m a **senior full-stack developer** with extensive experience in **web application development**, **cloud solutions**, and **scalable system design**.  
 Passionate about crafting high-performance, user-friendly applications that solve real-world problems.
 
-- ✅ Expert in **Python**, **JavaScript/TypeScript**, **C#**, **PHP**
-- ✅ Strong focus on **FastAPI**, **Next.js**, **Django**, **Laravel**
-- ✅ Skilled in **AWS**, **Cloud Architecture**, **DevOps**
-- ✅ Database experience with **MySQL**, **PostgreSQL**, **MongoDB**
-- ✅ Love clean code, testing, and maintainable architecture
+Got it — you want to emphasize certain key phrases in your **💼 Professional Highlights** with bold styling (`**...**`) so they stand out visually and are easy to scan.
+
+Here’s the improved version:
+
+---
+
+* ✅ professional experience delivering **full-stack web applications** for both **startups** and **enterprises**
+* ✅ **Expert in:** **JavaScript/TypeScript**, **PHP**, **C#**, **Python**
+* ✅ **Strong focus on:** **Node.js**, **FastAPI**, **Next.js**, **Django**, **Laravel**
+* ✅ **Cloud & DevOps proficiency:** **AWS**, **Vercel**, **Netlify**, **DigitalOcean**, **Firebase**
+* ✅ **Database expertise:** **MySQL**, **PostgreSQL**, **MongoDB**
+* ✅ Passionate about **clean architecture**, **performance optimization**, and **scalable solutions**
+* ✅ Committed to *monozukuri* (**craftsmanship**) and delivering products that evoke *kando* (**lasting positive impact**)
+* ✅ Proven ability to maintain **long-term client relationships** through **reliability**, **quality**, and **transparent communication**
+
+---
+
+Do you want me to now **apply this same emphasis style** to your *Career Journey* and *Development Philosophy* sections so the whole portfolio reads consistently professional?
+
 
 ---
 
@@ -85,21 +99,6 @@ Passionate about crafting high-performance, user-friendly applications that solv
 </tr>
 </table>
 
-## Connect With Me
-
-<p align="left">
-  <a href="https://github.com/angryred027" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:minamiharuto727@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Minami%20Haruto-red?style=flat-square&logo=gmail" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:angryred027@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-AngryRed027-red?style=flat-square&logo=gmail" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=angryred027&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
