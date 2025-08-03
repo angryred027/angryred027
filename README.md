@@ -24,12 +24,6 @@ Passionate about crafting high-performance, user-friendly applications that solv
 * ✅ Committed to *monozukuri* (**craftsmanship**) and delivering products that evoke *kando* (**lasting positive impact**)
 * ✅ Proven ability to maintain **long-term client relationships** through **reliability**, **quality**, and **transparent communication**
 
----
-
-Do you want me to now **apply this same emphasis style** to your *Career Journey* and *Development Philosophy* sections so the whole portfolio reads consistently professional?
-
-
----
 
 ## Tech Stack
 
