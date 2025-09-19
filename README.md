@@ -21,7 +21,6 @@ Passionate about crafting high-performance, user-friendly applications that solv
 * ✅ **Cloud & DevOps proficiency:** **AWS**, **Vercel**, **Netlify**, **DigitalOcean**, **Firebase**
 * ✅ **Database expertise:** **MySQL**, **PostgreSQL**, **MongoDB**
 * ✅ Passionate about **clean architecture**, **performance optimization**, and **scalable solutions**
-* ✅ Committed to *monozukuri* (**craftsmanship**) and delivering products that evoke *kando* (**lasting positive impact**)
 * ✅ Proven ability to maintain **long-term client relationships** through **reliability**, **quality**, and **transparent communication**
 
 
