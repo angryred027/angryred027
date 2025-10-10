@@ -1,6 +1,6 @@
 <!-- Banner / Intro -->
-<h1 align="center">Hello there, I'm Minami Haruto </h1>
-<h3 align="center">Full-Stack Web Developer • Based in Osaka, Japan</h3>
+<h1 align="center">Hello, I'm Minami Haruto </h1>
+<h3 align="center">Web, Mobile & Software Engineer • Based in Osaka, Japan</h3>
 
 <p align="center">
   <a href="mailto:minamiharuto727@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail"></a>
@@ -10,16 +10,16 @@
 ---
 
 ## About Me
-I’m a **full-stack developer** with extensive experience in **web application development**, **cloud solutions**, and **scalable system design**.  
+I’m a **full-stack engineer** with extensive experience in **web, mobile & desktop application development**, **cloud solutions**, and **scalable system design**.  
 Passionate about crafting high-performance, user-friendly applications that solve real-world problems.
 
 ---
 
 * ✅ professional experience delivering **full-stack web applications** for both **startups** and **enterprises**
-* ✅ **Expert in:** **JavaScript/TypeScript**, **PHP**, **C#**, **Python**
-* ✅ **Strong focus on:** **Node.js**, **FastAPI**, **Next.js**, **Django**, **Laravel**
+* ✅ **Expert in:** **C/C++**, **JavaScript/TypeScript**, **PHP**, **C#**, **Python**, **Java**, **SQL**
+* ✅ **Strong focus on:** **Node.js**, **FastAPI**, **Next.js**, **Django**, **Laravel**, **.NET**
 * ✅ **Cloud & DevOps proficiency:** **AWS**, **Vercel**, **Netlify**, **DigitalOcean**, **Firebase**
-* ✅ **Database expertise:** **MySQL**, **PostgreSQL**, **MongoDB**
+* ✅ **Database expertise:** **MySQL**, **PostgreSQL**, **MongoDB**, **MS SQL**
 * ✅ Passionate about **clean architecture**, **performance optimization**, and **scalable solutions**
 * ✅ Proven ability to maintain **long-term client relationships** through **reliability**, **quality**, and **transparent communication**
 
