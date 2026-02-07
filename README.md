@@ -1,6 +1,6 @@
 <!-- Banner / Intro -->
 <h1 align="center">Hello, I'm Minami Haruto </h1>
-<h3 align="center">Web, Mobile & Software Engineer • Based in Osaka, Japan</h3>
+<h3 align="center">Web, Mobile & Software Engineer</h3>
 
 <p align="center">
   <a href="mailto:minamiharuto727@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail"></a>
@@ -11,12 +11,12 @@
 ---
 
 ## About Me
-I’m a **full-stack engineer** with extensive experience in **web, mobile & desktop application development**, **cloud solutions**, and **scalable system design**.  
+I’m a **full-stack software engineer** with extensive experience in **web, mobile & desktop application development**, **cloud solutions**, and **scalable system design**.  
 Passionate about crafting high-performance, user-friendly applications that solve real-world problems.
 
 ---
 
-* ✅ professional experience delivering **full-stack web applications** for both **startups** and **enterprises**
+* ✅ I've professional experience delivering **full-stack web applications** for both **startups** and **enterprises**
 * ✅ **Expert in:** **C/C++**, **JavaScript/TypeScript**, **PHP**, **C#**, **Python**, **Java**, **SQL**
 * ✅ **Strong focus on:** **Node.js**, **FastAPI**, **Django**, **Laravel**, **.NET**, **Spring Boot**
 * ✅ **UI engineering:** **Next.js**, **React**, **Vue**, **Angular**, **Tailwind CSS**, and modern UX tooling
